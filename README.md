@@ -3,6 +3,8 @@
 ## Overview
 This Streamlit web application serves as an interactive chatbot that utilizes a pre-trained language model from Hugging Face's `transformers` library. Users can input text messages, and the chatbot responds with generated text based on the input.
 
+Deployment on Streamlit:
+https://chatbot-hugging.streamlit.app/
 ## Features
 - **User Text Input:** Users can type their messages into a text input field.
 - **Language Model Response:** The app uses a pre-trained GPT-2 model from Hugging Face to generate responses to user input.
